@@ -11,12 +11,12 @@
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/c%E8%AF%AD%E8%A8%80%EF%BC%88%E9%80%89%E4%B8%AD%EF%BC%89.png" alt="C" title="C"></code>
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/java.png" alt="JAVA" title="JAVA"></code>
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/Python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/html.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/Git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/C.png" alt="C" title="C"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/java.png" alt="JAVA" title="JAVA"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/Python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/html.png" alt="HTML" title="HTML"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/Git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/docker.png" alt="Docker" title="Docker"></code>
 
 
 
@@ -28,7 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://gitee.com/seasontong/image/raw/master/img/centos.png" alt="CentOS" title="CentOS"></code>
+<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/centos.png" alt="CentOS" title="CentOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 <br>
