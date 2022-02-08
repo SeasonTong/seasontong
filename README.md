@@ -11,7 +11,7 @@
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/C.png" alt="C" title="C"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C" title="C"></code>
 <code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/java.png" alt="JAVA" title="JAVA"></code>
 <code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/Python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://github.com/SeasonTong/seasontong/blob/main/img/html.png" alt="HTML" title="HTML"></code>
